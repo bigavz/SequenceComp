@@ -46,3 +46,9 @@ this final step requires NGS labs to deliver sequence data via mail using tons o
 e-mail compression is possible for human genomes (see above)
 
 but in ecology, the problems would be more complex.  further investigation is needed on the role of this tool in this ecosystem
+
+====================
+
+references:
+
+http://fasta.bioch.virginia.edu/fasta/fasta_list.html
